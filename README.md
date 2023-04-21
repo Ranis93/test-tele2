@@ -1,4 +1,7 @@
 # test-tele2
+```
+used vue3(CompositionAPI) + vue-cli + vuex + vue-router
+```
 
 ## Project setup
 ```
@@ -20,5 +23,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
